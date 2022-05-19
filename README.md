@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArnabMallik
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning DS and Algorithms
-- 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me https://www.linkedin.com/in/arnabmallik/
 
 <!---
